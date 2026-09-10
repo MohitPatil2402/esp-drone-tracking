@@ -215,7 +215,6 @@ Received: {'device_id': 1, 'mac': 'AA:BB:CC', 'rssi': -50}
 ## 👨‍💻 Authors
 
 * Mohit Rajendra Patil
-* Team Members
 
 ---
 
